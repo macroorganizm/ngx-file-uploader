@@ -1,0 +1,8 @@
+{
+  "name": "ngx-file-uploader",
+  "version": "1.3.0",
+  "peerDependencies": {
+    "@angular/common": "*",
+    "@angular/core": "*"
+  }
+}
